@@ -1,2 +1,2 @@
-# clustering-pangan-
+# PanganMap
 Aplikasi Clustering Harga Komoditas Indonesia 
